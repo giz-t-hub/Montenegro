@@ -16,7 +16,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Climate and energy policies](#climate-energy-policies)
 - [Urban and regional development](#urban)
 - [EU accession and cooperation](#eu-accession)
-- [Trade Facilitation](#trade-facilitation)  
+- [Trade Facilitation](#trade-facilitation)
+- [Digitalisation](#digitalisation)
+- [Gender and Equality](#gender)
 - [Local Transport Plans](#local-transport-plans)
 - [Local Sustainable Energy and Climate Action Plans](#local-secaps)
 - [Studies and research papers](#studies-research) 
@@ -63,6 +65,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  	- National Inventory Report 2023. Montenegro, 2023: https://unfccc.int/documents/631540
       
 - Adaptation
+	- Ongoing process: https://napmontenegro.me/en/homepage-english/
    
 
 - Energy policy 
@@ -73,12 +76,21 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 -
 
-### EU accession <a name="eu-accession"></a> 
+### EU accession and cooperation <a name="eu-accession"></a> 
 
 -
 
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
+
+-
+
+### Digitalisation
+
+- Montenegro Digital Transformation Strategy: https://wapi.gov.me/download/59dcab9b-b0e8-48b7-830b-6e4eab690521?version=1.0
+
+### Gender and Equality
+
 
  
 
@@ -112,8 +124,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
-- Asian Transport Outlook: https://asiantransportoutlook.com/ 
-
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
 
