@@ -96,7 +96,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Gender and Equality
 
-
+- 
  
 
 ### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
@@ -125,10 +125,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Data <a name="data"></a>
 
-
-
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
+
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
 
