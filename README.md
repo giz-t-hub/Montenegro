@@ -19,7 +19,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans)
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans)
 - [Local Sustainable Energy and Climate Action Plans](#local-secaps)
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -99,7 +99,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
  
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 - [Sustainable Urban Mobility Plan (SUMP) for Podgorica (2021)](https://skupstina.podgorica.me/wp-content/uploads/2020/02/19.-Prijedlog-plana-odr%C5%BEive-urbane-mobilnosti-Glavnog-grada-Podgorica.pdf)
 - [BokaCet 2020: Polycentric Urban Mobility Plan for Boka Bay and the Old Royal Capital of Cetinje](https://opstinativat.fra1.digitaloceanspaces.com/documents/Zastita%20ziv.sred.%20i%20energ.%20efikasnost/UNDP%20-%20PolySUMP%202017%20ENG.pdf)
